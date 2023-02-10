@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wakatime]([https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac](https://wakatime.com/badge/user/fcaad9e3-0a4d-41c7-8116-b02795fa154e.svg))
+[![wakatime](https://wakatime.com/badge/user/fcaad9e3-0a4d-41c7-8116-b02795fa154e.svg)](https://wakatime.com/@fcaad9e3-0a4d-41c7-8116-b02795fa154e)
 
 
 - 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com)
