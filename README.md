@@ -1,7 +1,16 @@
 ### Hi there 👋
 
+[![wakatime]([https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac](https://wakatime.com/badge/user/fcaad9e3-0a4d-41c7-8116-b02795fa154e.svg))
+
+
+- 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com)
+- 💬 Ask me about Go, Python, TypeScript, startups, and bootstrapping
+
+
+Add the [@WakaTime](https://github.com/wakatime) badge ([![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)) to your GitHub profile by creating a GitHub repo named `username/username` then copy the snippet from your [public WakaTime profile](https://wakatime.com/me).
+
 <!--
-**santosdave/santosdave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alanhamlett/alanhamlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I'm currently learning and improving my coding skills so as to be a better software developer.
