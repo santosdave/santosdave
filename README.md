@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com)
 - 💬 Ask me about Go, Python, TypeScript, startups, and bootstrapping
 
-
+<figure><embed src="https://wakatime.com/share/@Santosdave/359180d6-03fe-4414-8680-eed6ce186832.svg"></embed></figure>
