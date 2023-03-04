@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Wycliffe Dev</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
@@ -23,5 +25,4 @@
 
 <codersrank-timeline type="technologies" username="santosdave"></codersrank-timeline>
 
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/timeline@x.x.x/codersrank-timeline.min.js"></script>
+
