@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Wycliffe Dev</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate full stack developer from Kenya</h3>
 
 - 🔭 I’m currently working on **Airbnb Rebuild Clone**
 
