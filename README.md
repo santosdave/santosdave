@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wycliffe 👋</h1>
 
 <p align="center">
-  Full-stack web and mobile developer with <b>5+ years</b> of experience, currently at <b>Clifford Technologies</b>, Kenya.<br/>
+  Full-stack web and mobile developer with <b>5+ years</b> of experience, based in Kenya.<br/>
   I build travel-booking platforms, the open-source PHP packages that talk to the airlines behind them,<br/>
   and a wide range of web, mobile and data products across the JavaScript, PHP and Python ecosystems.
 </p>
@@ -16,9 +16,9 @@
 
 ## ✈️ What I work on
 
-Most of my day job is **travel technology**: agency and corporate booking consoles built on Laravel, Inertia and Vue, wired into the Amadeus GDS and low-cost-carrier APIs. That means fare search, PNR creation, pricing and ticketing, ancillaries, changes and refunds, and the dual-currency finance and audit layers that sit on top.
+A lot of my work is **travel technology**: agency and corporate booking consoles built on Laravel, Inertia and Vue, wired into the Amadeus GDS and low-cost-carrier APIs. That means fare search, PNR creation, pricing and ticketing, ancillaries, changes and refunds, and the dual-currency finance and audit layers that sit on top.
 
-Along the way I have published the integration layers as reusable packages so other teams in East Africa (and anywhere else) do not have to start from the raw WSDLs.
+Along the way I have published the integration layers as reusable packages so nobody has to start from the raw WSDLs.
 
 ## 📦 Open-source packages
 
